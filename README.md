@@ -3,7 +3,8 @@ Just trying to build a portfolio so people will hire me :/ ;
 
 Currently studying at SDSU, persuing a degree in computer engineering;
 
-Learned languages: { /n 
+Learned languages: {
+
   C, C#, C++;
   
   HTML, CSS, Javascript;
