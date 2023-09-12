@@ -1,13 +1,19 @@
 ### Hi there 👋
 Just trying to build a portfolio so people will hire me :/ ;
+
 Currently studying at SDSU, persuing a degree in computer engineering;
 
-Learned languages: {
+Learned languages: { /n 
   C, C#, C++;
+  
   HTML, CSS, Javascript;
+  
   Python;
+  
   Verilog;
+  
   Assembly;
+  
   Chinese;
 }
 
